@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently Studying  **Computer Science Engineering**
+- 🔭 I’m currently Studying  **Computer Technology**
 
 - 🌱 I’m currently learning **Programs**
 
